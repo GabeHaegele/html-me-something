@@ -1,0 +1,10 @@
+header{
+    font-size: 50px
+}
+body {
+    color: white;
+    background-color: #333;
+    font-family: 'Sacramento', cursive;
+    font-size: 150%;
+    margin: 5em 25%;
+}
