@@ -8,12 +8,12 @@ body {
     font-size: 150%;
     margin: 5em 25%;
 }
-.footer{
+class.footer{
     color: black;
     font-size: 100%;
     margin: 5em 10%;
 }
-.special {
+p.special {
     color: blue;
     font-size: 100%;
     margin: 5em 10%;
